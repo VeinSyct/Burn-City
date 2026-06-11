@@ -234,7 +234,7 @@ Open the project folder in Visual Studio Code.
 ### Run Using Live Server
 
 1. Install the Live Server extension.
-2. Open `index.html`.
+2. Open `burn-city.html`.
 3. Right-click anywhere inside the file.
 4. Select **Open with Live Server**.
 
@@ -254,7 +254,7 @@ Burn-City/
 │   ├── hdr/
 │   └── environments/
 │
-├── index.html
+├── burn-city.html
 ├── main.js
 └── README.md
 ```
